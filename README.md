@@ -18,10 +18,7 @@ Includes a native DLL (`HookLib`) to inject system-level low-level hooks.
 
 ## 🎥 Demo
 
-![AutoInputRecord Demo](demo/AutoInputRecordDemo.gif)
-
-> 📁 **To Add This:** Save your recording as a `.gif` (see below) and place it inside a `demo/` folder in your project, then commit the folder to GitHub.
-
+![AutoInputRecord Demo](Demo/autoInputRecord.gif)
 ---
 
 ## 🛠️ Tech Stack
