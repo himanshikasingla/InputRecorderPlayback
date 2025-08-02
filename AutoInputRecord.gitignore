@@ -1,0 +1,30 @@
+# Build files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ipch
+*.ilk
+*.idb
+*.log
+
+# Visual Studio files
+*.user
+*.suo
+*.vcxproj.user
+*.VC.db
+*.aps
+
+# Output folders
+/Debug/
+/Release/
+/x64/
+/ipch/
+/.vscode/
+/.vs/
+
+# Others
+*.ncb
+*.sdf
+*.opensdf
+*.cache
